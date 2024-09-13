@@ -13,5 +13,7 @@ Features
 Technologies Used:
 
 HTML: Crafted the structure of the web pages.
+
 CSS: Styled and laid out the application for a polished look.
+
 TypeScript: Enhanced functionality for a smooth, dynamic user experience
